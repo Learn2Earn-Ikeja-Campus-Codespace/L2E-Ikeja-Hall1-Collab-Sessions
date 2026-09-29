@@ -1,41 +1,11 @@
 # Worksheets
 
-> **Laptops closed until Step 4 is done.** Copy the template below into your notebook (or a notes file) and fill it in for your problem.
+## Submission
 
-## The template
+Save your solution in a .md or .txt file using your name eg. <emmanuel>.txt and upload it on https://forms.gle/NgDyWhDhgpWRvTUx5
 
-```text
-PROBLEM: ______________________
+or using the same file format save your file in `problem_solving/wk1/submissions` and create a pull request
 
-STEP 1 · UNDERSTAND
-  In our own words:
-  Input (what? what type?):
-  Output (what? what type?):
-  Questions / assumptions:
-
-STEP 2 · EXAMPLES, BY HAND
-  Input            | Output         | Why?
-  ---------------- | -------------- | -----------------
-                   |                |
-                   |                |
-  (our edge case)  |                |
-
-STEP 3 · BREAK IT DOWN  (what did our brain do in Step 2?)
-  1.
-  2.
-  3.
-
-STEP 4 · PSEUDOCODE
-  ...
-
-  Trace it by hand against every Step 2 example. All correct?
-
-CHECKPOINT: another group follows our pseudocode and gets
-            every Step 2 answer without asking us anything.
-
-STEP 5 · CODE        write the function in exercises.py
-STEP 6 · REFLECT     which step went wrong, if any? Simpler way?
-```
 
 ## The problems
 
