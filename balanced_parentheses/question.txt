@@ -1,0 +1,22 @@
+QUESTION 4 — BALANCED PARENTHESES
+Suggested time: 10 minutes
+Problem:
+Determine whether a string contains balanced parentheses. Every opening parenthesis '(' must have a matching closing parenthesis ')' in the correct order.
+You only need to handle round parentheses; ignore other character types.
+
+Examples:
+Input: (a+b) * (c-d)
+Output: Balanced
+Input: (a+b))
+Output: Not balanced
+Input: ((a+b)
+Output: Not balanced
+
+Constraints
+- Use a loop and a counter.
+- Do not import libraries.
+- If the counter ever becomes negative, the string is not balanced. At the end, the counter must be zero.
+
+What This Tests
+Strings, loops, counters, conditionals, and algorithmic reasoning.
+Notes / concepts to review: (Remember to write your weakness it if you have one)
